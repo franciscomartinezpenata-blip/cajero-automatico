@@ -1,2 +1,5 @@
 saldo= 1000
-print("cuantas operacion desea realizar")
+print ("cuantas operaciones deseas hacer")
+while True:
+        print ("1.consultar saldo")
+        print ("2.retirar dinero")
